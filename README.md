@@ -401,7 +401,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-```i
+```
 
 ## Output screen shots of proteus  :
  
@@ -410,7 +410,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
 
  <img width="1120" height="928" alt="Gemini_Generated_Image_6d2isb6d2isb6d2i" src="https://github.com/user-attachments/assets/05bacfa0-73b8-4b8a-9209-5eb4a9884ad4" />
 
